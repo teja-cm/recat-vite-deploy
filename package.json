@@ -1,9 +1,9 @@
 {
-  "homepage": "https://teja-cm.github.io/react-vite-deploy/",
   "name": "my-reactvite-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://teja-cm.github.io/recat-vite-deploy/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
